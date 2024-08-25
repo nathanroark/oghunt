@@ -49,7 +49,19 @@ export const PROJECTS: ProductPost[] = [
     hasAi: false,
     topics: [
       {
-        name: "React",
+        name: "Seattle",
+        description: "",
+        id: "1",
+        postId: "1",
+      },
+      {
+        name: "Food",
+        description: "",
+        id: "2",
+        postId: "1",
+      },
+      {
+        name: "Svelte",
         description: "",
         id: "1",
         postId: "1",
